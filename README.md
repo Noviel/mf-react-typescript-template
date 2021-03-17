@@ -1,1 +1,1 @@
-# Three.js + React + TypeScript + Module Federation
+# React + TypeScript + Module Federation Template
